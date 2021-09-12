@@ -1,0 +1,14 @@
+C:\Users\Buyani\source\repos\AdapterSample\AdapterSample\obj\Debug\netcoreapp3.1\AdapterSample.AssemblyInfoInputs.cache
+C:\Users\Buyani\source\repos\AdapterSample\AdapterSample\obj\Debug\netcoreapp3.1\AdapterSample.AssemblyInfo.cs
+C:\Users\Buyani\source\repos\AdapterSample\AdapterSample\obj\Debug\netcoreapp3.1\AdapterSample.csproj.CoreCompileInputs.cache
+C:\Users\Buyani\source\repos\AdapterSample\AdapterSample\obj\Debug\netcoreapp3.1\AdapterSample.csproj.AssemblyReference.cache
+C:\Users\Buyani\source\repos\AdapterSample\AdapterSample\obj\Debug\netcoreapp3.1\AdapterSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buyani\source\repos\AdapterSample\AdapterSample\bin\Debug\netcoreapp3.1\AdapterSample.exe
+C:\Users\Buyani\source\repos\AdapterSample\AdapterSample\bin\Debug\netcoreapp3.1\AdapterSample.deps.json
+C:\Users\Buyani\source\repos\AdapterSample\AdapterSample\bin\Debug\netcoreapp3.1\AdapterSample.runtimeconfig.json
+C:\Users\Buyani\source\repos\AdapterSample\AdapterSample\bin\Debug\netcoreapp3.1\AdapterSample.runtimeconfig.dev.json
+C:\Users\Buyani\source\repos\AdapterSample\AdapterSample\bin\Debug\netcoreapp3.1\AdapterSample.dll
+C:\Users\Buyani\source\repos\AdapterSample\AdapterSample\bin\Debug\netcoreapp3.1\AdapterSample.pdb
+C:\Users\Buyani\source\repos\AdapterSample\AdapterSample\obj\Debug\netcoreapp3.1\AdapterSample.dll
+C:\Users\Buyani\source\repos\AdapterSample\AdapterSample\obj\Debug\netcoreapp3.1\AdapterSample.pdb
+C:\Users\Buyani\source\repos\AdapterSample\AdapterSample\obj\Debug\netcoreapp3.1\AdapterSample.genruntimeconfig.cache
